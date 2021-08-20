@@ -4,7 +4,7 @@ Moduabit integration/staging tree
 http://www.moduabit.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Moduabit Developers
+cCopyright (c) 2019-2021 ModuaBit 
 
 What is Moduabit?
 ----------------
